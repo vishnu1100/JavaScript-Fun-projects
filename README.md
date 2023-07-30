@@ -40,7 +40,7 @@ This project is a simple analog clock developed using JavaScript, HTML, and CSS.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/clock.png)
+![Screenshot 1](/screenshots/clockk.png)
 
 
 ## Installation
