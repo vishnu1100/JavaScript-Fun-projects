@@ -55,9 +55,7 @@ Make sure you have a stable internet connection to load the Google Fonts properl
 
 ## Demo
 
-Check out the live demo [here](https://vishnu1100.github.io/JavaScript-Fun-projects/Analog%20Clock/).
-
-
+Check out the live demo [here](https://vishnu1100.github.io/JavaScript-Fun-projects/).
 
 ## Usage
 
